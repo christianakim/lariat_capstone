@@ -5,3 +5,11 @@ Project Deliverables:
 1. An Excel model that Lariat can use to make data-informed decisions about their fleet, based on the observed costs and revenue data from their fleet in recent years.
 2. A PowerPoint deck that provides an analysis of the problem and recommendations.
 3. A live presentation in which I present my findings to a Lariat executive.
+
+Applied Techniques & Methods:
+- VLOOKUPs
+- INDEX/MATCH
+- Pivot Tables
+- Data Validation
+- Dashboards
+- Data Storytelling
