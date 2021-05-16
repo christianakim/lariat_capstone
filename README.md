@@ -11,5 +11,5 @@ Applied Techniques & Methods:
 - INDEX/MATCH
 - Pivot Tables
 - Data Validation
-- Dashboards
+- Dashboarding
 - Data Storytelling
