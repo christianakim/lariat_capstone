@@ -8,11 +8,6 @@ Project Deliverables:
 2. A PowerPoint deck that provides an analysis of the problem and recommendations.
 3. A live presentation in which I present my findings to Lariat executives.
 
-Applied Techniques & Methods:
-- VLOOKUPs
-- INDEX/MATCH
-- Pivot Tables
-- Data Validation
-- Dashboarding
-- Data Visualization
-- Data Storytelling
+Demonstrated Tools & Techniques: 
+- Excel - VLOOKUPs, INDEX/MATCH, Pivot Tables, Data Validation, Dashboarding
+- PowerPoint
