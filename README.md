@@ -14,4 +14,5 @@ Applied Techniques & Methods:
 - Pivot Tables
 - Data Validation
 - Dashboarding
+- Data Visualization
 - Data Storytelling
